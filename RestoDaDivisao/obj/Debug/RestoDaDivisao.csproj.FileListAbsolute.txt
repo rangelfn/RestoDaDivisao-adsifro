@@ -1,0 +1,20 @@
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/bin/Debug/RestoDaDivisao.exe.config
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/bin/Debug/RestoDaDivisao.exe
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/bin/Debug/RestoDaDivisao.pdb
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.AssemblyReference.cache
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.RestoDivisao.resources
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.Properties.Resources.resources
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.GenerateResource.cache
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.CoreCompileInputs.cache
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.exe
+E:/3P-ADS_Noturno/RestoDaDivisao/RestoDaDivisao/RestoDaDivisao/obj/Debug/RestoDaDivisao.pdb
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/bin/Debug/RestoDaDivisao.exe.config
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/bin/Debug/RestoDaDivisao.exe
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/bin/Debug/RestoDaDivisao.pdb
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.AssemblyReference.cache
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.RestoDivisao.resources
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.Properties.Resources.resources
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.GenerateResource.cache
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.csproj.CoreCompileInputs.cache
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.exe
+/Volumes/Arquivos/01Rangel_Nepomuceno/02Estudos/Superior_ADS_IFRO/3 Periodo/LinguagemDeProgramacaoVisual/Resto da Divisao C#/RestoDaDivisao/obj/Debug/RestoDaDivisao.pdb
